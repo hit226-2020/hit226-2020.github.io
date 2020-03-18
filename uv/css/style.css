@@ -1,0 +1,34 @@
+body {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.navigation {
+  color: blue;
+  font-size: 18px;
+}
+
+/* Main section starts */
+
+.main {
+  width: 100%;
+  height: 200px;
+  background-color: #ddd;
+  text-align: center;
+}
+
+.main div {
+  background-color: red;
+}
+
+.main p {
+  font-size: 14px;
+  font-weight: normal;
+  color: #eee;
+}
+
+/* Main section ends */
+
+#paragraph {
+  color: #000;
+}
